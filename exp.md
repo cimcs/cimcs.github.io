@@ -31,6 +31,6 @@ permalink: /exp/
 
 ------
 
-Download [PDF version](https://github.com/cimcs/cimcs.github.io/tree/master/files/CV_Jinhua_CUI_v1.pdf?raw=true).
+Download [PDF version](https://github.com/cimcs/cimcs.github.io/blob/master/files/CV_Jinhua_CUI_v1.pdf).
 
-{% include embedpdf.html source="https://github.com/cimcs/cimcs.github.io/tree/master/files/CV_Jinhua_CUI_v1.pdf?raw=true" width=100 height=900 %}
+{% include embedpdf.html source="https://github.com/cimcs/cimcs.github.io/blob/master/files/CV_Jinhua_CUI_v1.pdf" width=100 height=900 %}
