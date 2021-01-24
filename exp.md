@@ -4,7 +4,7 @@ layout: page
 permalink: /exp/
 ---
 
-<!-- ## Education -->
+## Education
 
 {% for edu in site.data.cv.education %}
 - {{edu.date}}<br />{{edu.affiliation}}<br />{{edu.title}}, Advisor: {{edu.mentor}}
@@ -33,4 +33,4 @@ permalink: /exp/
 
 See **[PDF version](https://github.com/cimcs/cimcs.github.io/blob/master/files/CV_Jinhua_CUI_v1.pdf)** for more.
 
-{% include embedpdf.html source="https://github.com/cimcs/cimcs.github.io/blob/master/files/CV_Jinhua_CUI_v1.pdf" width=100 height=900 %}
+<!-- {% include embedpdf.html source="https://github.com/cimcs/cimcs.github.io/blob/master/files/CV_Jinhua_CUI_v1.pdf" width=100 height=900 %} -->
