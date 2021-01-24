@@ -1,0 +1,432 @@
+name: Jinhua CUI
+affiliation: NUDT & NUS
+address: Changsha in China & Singapore
+email: jhcui dot gid at gamil.com
+web: https://cimcs.github.io
+
+research_interests:
+    - System security.
+    - Trusted computing.
+    - Mobile security.
+    - Hardware virtualization technology.
+
+education:
+    - date:         September 2018 - present
+      title:        Ph.D in Computer Science
+      affiliation:  National University of Defense Technology
+      location:     Changsha, China
+      mentor:       Prof. Zhiping Cai
+      thesis:       
+    - date:         September 2013 - February 2016
+      title:        M.S.E. in Circuits and Systems
+      affiliation:  Xidian University
+      location:     Xi'an, China
+      mentor:       Assoc. Prof. Jianwei Hu
+      thesis:
+    - date:         September 2009 - July 2013
+      title:        B.S.E. in Electronic & Information Engineering
+      affiliation:  Gansu Agricultural University
+      location:     Lanzhou, China
+      mentor:       Liqun Liu
+      thesis:       
+
+positions:
+    - date:         Jan 2021 – present
+      title:        Research Assistant
+      affiliation:  School of Computing, National University of Singapore
+      location:     Singapore
+      mentor:       Prof. Prateek Saxena
+      notes:
+    - date:         July 2017 – August 2018
+      title:        Senior Research Engineer
+      affiliation:  School of Information Systems, Singapore Management University
+      location:     Singapore
+      mentor:       Prof. Xuhua Ding
+      notes:
+    - date:         March 2016 – June 2017
+      title:        Research Engineer
+      affiliation:  School of Information Systems, Singapore Management University
+      location:     Singapore
+      mentor:       Prof. Xuhua Ding
+      notes:
+#     - date:         2014-2015
+#       title:        Postdoctoral Associate
+#       affiliation:  Massachusetts Institute of Technology
+#       location:     Cambridge MA, USA
+#       mentor:       Prof. Fr{\'e}do Durand
+#       notes:
+
+visiting_positions:
+    - date:         July 2019 - December 2020
+      title:        Research Internship
+      affiliation:  School of Computing, National University of Singapore
+      location:     Singapore
+      mentor:       Prof. Prateek Saxena
+      notes:        
+    # - date:         Aug 2012
+    #   title:        Visiting student
+    #   affiliation:  University of California Berkeley
+    #   location:     Berkeley CA, USA
+    #   mentor:       Prof. Ravi Ramamoorthi
+    #   notes:        Procedural noise functions for synthesizing non-Gaussian textures.
+    # - date:         Feb-Jun 2010
+    #   title:        Research intern
+    #   affiliation:  INRIA
+    #   location:     Sophia Antipolis, France
+    #   mentor:       Dr. George Drettakis
+    #   notes:        Image-based rendering for urban scenes.
+    # - date:         Summer 2008
+    #   title:        Intern (Embedded graphics group)
+    #   affiliation:  Nvidia
+    #   location:     Bangalore, India
+    #   mentor:
+    #   notes:        OpenGL-ES extensions for GPU driver for embedded systems, OpenGL-ES 2.0 conformance test suite bugs.
+    # - date:         Summer 2007
+    #   title:        Research intern
+    #   affiliation:  Dublin City University
+    #   location:     Dublin, Ireland
+    #   mentor:       Dr. Derek Molloy
+    #   notes:        Memory exercises as 3D games and user studies to test effect of 3D user interfaces on human recall.
+
+# teaching:
+#     - date:   Autumn 2016
+#       title:  Advanced Topics in Computer Graphics and Vision Seminar
+#       url:    https://graphics.ethz.ch/teaching/seminarAS16/home.php
+#       number: 252-5701-00L
+#       school: ETH Zurich
+#     - date:   Spring 2016
+#       title:  Advanced Topics in Computer Graphics Seminar
+#       url:    https://graphics.ethz.ch/teaching/seminarSS16/home.php
+#       number: 252-5704-00L
+#       school: ETH Zurich
+#     - date:   Spring 2015
+#       title:  Digital and Computational Photography
+#       url:    https://stellar.mit.edu/S/course/6/sp15/6.815/index.html
+#       number: 6.815/6.865
+#       school: MIT
+
+# supervised_theses:
+#     - date:   Spring 2017
+#       author: Andrin Jenal
+#       title:  RNN-based generative model for learning and synthesis of tree skeletons
+#       school: Master's thesis, ETH Zurich
+
+technical_skills:
+    - Intel SGX
+    - DynamoRIO, Dynamic Instrumentation Tool Platform (for Runtime Introspection & Optimization, etc.)
+    - ARM Virtualization, such as KVM/ARM, Xen Hypervisor
+    - Have an empirical understanding of underlying system display on Linux and Android
+    - Debugging Linux OS, such as Dstream, ARM DS-5, FastModel, etc.
+    - Understanding of popular SoC based on ARM, such as Odroid XU4, Raspberry Pi 2/3
+    - Have a good knowledge of ARM TrustZone
+    - Have an empirical understanding of Linux OS and low-level hardware, such as CPU, cache, MMU, TLB, etc.
+    - Have an elementary knowledge of virtualization technology and SGX on x86
+    - Linux Kernel, Hypervisor and TrustZone Programming
+    - C/Qt/Python/C++/Android Programming
+
+awards:
+    - date:   September 2018 - present
+      detail: PhD fellowship (per year) in National University of Defense Technology.
+    - date:   November 2013 - November 2015
+      detail: The First Prize Scholarship (per year) in Xidian University.
+    - date:   October 2011
+      detail: National Scholarship in Gansu Agricultural University.
+    - date:   October 2010 and November 2012
+      detail: National Endeavor Fellowship in Gansu Agricultural University.
+
+publications:
+    - title:   "Dynamic Binary Translation for SGX Enclaves"
+      author:  Shweta Shinde, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan and Prateek Saxena
+      journal: arXiv preprint
+      note:    version 1
+      year:    2020
+      doi:   
+      code:    https://github.com/ratel-enclave
+      web:     https://ratel-enclave.github.io/
+      demo:    
+      video:   
+      slides:   
+      url:     https://arxiv.org/pdf/2009.01144.pdf
+      # media:
+      #     - name: Code
+      #       url:  https://github.com/ratel-enclave
+      #     - name: Project page
+      #       url:  https://github.com/ratel-enclave/ratel-enclave.github.io
+      #     - name: UploadVR
+      #       url:  https://uploadvr.com/oc6-quest-passthrough/?fbclid=IwAR1uZPB9ODf76lw7p3rNlM_A4lK0EcS1yQfCpdly5uRiCMj3XiqrrM1ohco
+    - title:   "H-Securebox: A Hardened Memory Data Protection Framework on ARM Devices"
+      author:  Zhangkai Zhang, Zhoujun Li, Chunhe Xia, **Jinhua Cui** and Jinxin Ma
+      journal: IEEE International Conference on Data Science in Cyberspace (DSC)
+      url:     https://ieeexplore.ieee.org/document/8411874
+      doi:     10.1109/DSC.2018.00053
+      note:    
+      year:    2018
+    - title:   "Securing Display Path for Security-Sensitive Applications on Mobile Devices"
+      author:  "**Jinhua Cui**, Yuanyuan Zhang, Zhiping Cai, Anfeng Liu and Yangyang Li"
+      journal: Computers, Materials & Continua
+      note:    
+      year:    2018
+      url:     https://www.techscience.com/cmc/v55n1/22881
+      doi:     doi:10.3970/cmc.2018.055.017 
+      # media:
+      #   - name: TechCrunch
+      #     url:  https://techcrunch.com/2017/10/23/the-dream-of-customizable-virtual-3d-foliage-is-alive-at-disney/
+    - title:   "Presence Attestation: The Missing Link in Dynamic Trust Bootstrapping"
+      author:  Zhangkai Zhang, Xuhua Ding, Gene Tsudik, **Jinhua Cui** and Zhoujun Li
+      journal: ACM SIGSAC Conference on Computer and Communications Security (CCS)
+      note:    
+      year:    2017
+      url:     http://www.mysmu.edu/faculty/xhding/publications/preatt.pdf
+      doi:     https://doi.org/10.1145/3133956.3134094
+      demo:    https://youtu.be/jnjpY3XyfP0
+    # - title:   A Distributed Intrusion Detection Model via Nondestructive Partitioning and Balanced Allocation for Big Data
+    #   author:  Xiaonian Wu, Chuyun Zhang, Runlian Zhang, Yujue Wang and **Jinhua Cui**
+    #   journal: Computers, Materials & Continua
+    #   note:    
+    #   year:    2018
+    #   doi:     10.3970/cmc.2018.02449
+    #   url:     https://www.techscience.com/cmc/v56n1/27803
+      # image:   https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160304050935/Underwater-3D-Capture-using-a-Low-Cost-Commercial-Depth-Camera-Image.png
+      # media:
+      #   - name: Phys
+      #     url:  http://phys.org/news/2016-03-disney-depth-cameras-depths-high-accuracy.html
+      #   - name: ScientificComputing
+      #     url:  http://www.scientificcomputing.com/news/2016/03/disney-takes-cameras-depths-high-accuracy-3-d-capture
+      #   - name: Eurekalert
+      #     url:  http://www.eurekalert.org/pub_releases/2016-03/dr-drt030916.php
+      #   - name: AzoSensors
+      #     url:  http://www.azosensors.com/news.aspx?newsID=10925
+      #   - name: EScienceNews
+      #     url:  http://esciencenews.com/sources/physorg/2016/03/09/disney.researchers.take.depth.cameras.depths.high.accuracy.3.d.capture
+      #   - name: ScienceCodex
+      #     url:  http://www.sciencecodex.com/disney_researchers_take_depth_cameras_into_the_depths_for_highaccuracy_3d_capture-177491
+    # - title:   A QoS&SLA-Driven Multifaceted Trust Model for Cloud Computing
+    #   author:  Runlian Zhang, Qingzhi Wang, **Jinhua Cui** and Xiaonian Wu
+    #   journal: Communications in Computer and Information Science
+    #   note:    
+    #   year:    2020
+    #   url:     https://link.springer.com/chapter/10.1007/978-981-15-3418-8_18
+    #   doi:     https://doi.org/10.1007/978-981-15-3418-8_18
+      # image:   http://people.csail.mit.edu/jrk/xform_thumb.png
+      # media:
+      #   - name: Phys
+      #     url:  http://phys.org/news/2015-11-technique-mobile-image-cloud-bandwidth.html
+    # - title:   Multi view intrinsic decomposition and relighting
+    #   author:  S. Duchene, C. Riant, G. Chaurasia, J. Lopez-Moreno, PY Laffont, S. Popov, A. Bousseau, G. Drettakis
+    #   journal: ACM Transactions on Graphics
+    #   note:    presented at SIGGRAPH
+    #   year:    2015
+    #   url:     http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/
+    #   doi:     http://dx.doi.org/10.1145/2790060.2790063
+    #   image:   http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/ateaser.jpg
+    # - title:   Compiling high performance recursive filters
+    #   author:  G. Chaurasia, J. Ragan-Kelley, S. Paris, G. Drettakis, F. Durand
+    #   journal: High Performance Graphics
+    #   year:    2015
+    #   url:     http://mit-gfx.github.io/recfilter/
+    #   doi:     http://dx.doi.org/10.1145/2790060.2790063
+    #   image:   http://www-sop.inria.fr/reves/Basilic/2015/CRPDD15a/image.jpg
+    # - title:   Is it possible to use highly realistic virtual reality in the elderly? A feasibility study with image-based rendering
+    #   author:  M. Benoit, R. Guerchouche, PD Petit, E. Chapoulie, V. Manera, G. Chaurasia, G. Drettakis, P. Robert
+    #   journal: Journal of Neuropsychiatric Disease and Treatment
+    #   year:    2015
+    #   url:     http://www.dovepress.com/articles.php?article_id=20707
+    #   doi:     http://dx.doi.org/10.2147/NDT.S73179
+    #   image:   http://www-sop.inria.fr/reves/Basilic/2015/BGPCMCDR15/Benoit.jpg
+    # - title:   Reminiscence therapy using image-based rendering in VR
+    #   author:  E. Chapoulie, R. Guerchouche, PD Petit, G. Chaurasia, P. Robert, G. Drettakis
+    #   journal: IEEE Virtual Reality
+    #   year:    2014
+    #   url:     http://www-sop.inria.fr/reves/Basilic/2014/CGPCRD14/
+    #   doi:     http://dx.doi.org/10.1109/VR.2014.6802049
+    #   image:   http://www-sop.inria.fr/reves/Basilic/2014/CGPCRD14/teaser.jpg
+    # - title:   Depth synthesis and local warps for plausible image-based navigation
+    #   author:  G. Chaurasia, S. Duchene, O. Sorkine-Hornung, G. Drettakis
+    #   journal: ACM Transactions on Graphics
+    #   note:    presented at SIGGRAPH
+    #   year:    2013
+    #   url:     http://www-sop.inria.fr/reves/Basilic/2013/CDSD13/
+    #   doi:     http://dx.doi.org/10.1145/2487228.2487238
+    #   image:   http://www-sop.inria.fr/reves/Basilic/2013/CDSD13/museum.jpg
+    # - title:   Perception of perspective distortions in image-based rendering
+    #   author:  P. Vangorp, C. Richardt, EA Cooper, G. Chaurasia, MS Banks, G. Drettakis
+    #   journal: ACM Transactions on Graphics
+    #   note:    SIGGRAPH
+    #   year:    2013
+    #   url:     http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/
+    #   doi:     http://dx.doi.org/10.1145/2461912.2461971
+    #   image:   http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/experiment.png
+    # - title:   Silhouette-aware warping for image-based rendering
+    #   author:  G. Chaurasia, O. Sorkine, G. Drettakis
+    #   journal: Computer Graphics Forum
+    #   note:    EGSR
+    #   year:    2011
+    #   url:     http://www-sop.inria.fr/reves/Basilic/2011/CSD11/
+    #   doi:     http://dx.doi.org/10.1111/j.1467-8659.2011.01981.x
+    #   image:   http://www-sop.inria.fr/reves/Basilic/2011/CSD11/result_tree.jpg
+    # - title:   Perception of visual artifacts in image-based rendering of facades
+    #   author:  P. Vangorp, G. Chaurasia, PY Laffont, R. Fleming, G. Drettakis
+    #   journal: Computer Graphics Forum
+    #   note:    EGSR
+    #   year:    2011
+    #   url:     http://www-sop.inria.fr/reves/Basilic/2011/VCLFD11/
+    #   doi:     http://dx.doi.org/10.1111/j.1467-8659.2011.01983.x
+    #   image:   http://www-sop.inria.fr/reves/Basilic/2011/VCLFD11/VCLFD11-teaser.png
+    # - title:   A multimode immersive conceptual design system for architectural modeling and lighting
+    #   author:  M. Cabral, P. Vangorp, G. Chaurasia, E. Chapoulie, M. Hachet, G. Drettakis
+    #   journal: IEEE Symposium on 3D User Interfaces
+    #   note:    IEEE 3DUI
+    #   year:    2011
+    #   url:     http://www-sop.inria.fr/reves/Basilic/2011/CVCCHD11/
+    #   doi:     http://dx.doi.org/10.1109/3DUI.2011.5759211
+    #   image:   http://www-sop.inria.fr/reves/Basilic/2011/CVCCHD11/emmanuelle2.jpg
+    # - title:   Virtual chaotic traffic simulation
+    #   author:  G. Chaurasia, BR Selvamani, N. Gupta, S. Kumar
+    #   journal: Indian Conference on Computer Vision, Graphics and Image Processing
+    #   note:    ICVGIP
+    #   year:    2010
+    #   url:     /research/traffsim/
+    #   doi:     http://dx.doi.org/10.1145/1924559.1924604
+    #   internal: 1
+
+# talks:
+#     - venue:  "CVPR tutorial: Novel View Synthesis: From Depth-Based Warping to Multi-Plane Images and Beyond"
+#       date:   June 14, 2020
+#       url:    https://nvlabs.github.io/nvs-tutorial-cvpr2020/
+#     - venue:  Microsoft Research Redmond
+#       date:   July 19, 2013
+#       url:    http://research.microsoft.com/apps/video/dl.aspx?id=198331
+#     - venue:  MIT CSAIL
+#       date:   Sept 11, 2013
+#       url:    /research/talks/csail_2013/
+#       internal: 1
+
+reviews:
+    # grants:
+    #     - title: National Science Foundation (USA)
+    #       years:
+    #         - year: 2017
+    #       url: https://www.nsf.gov
+    #     - title: Agence Nationale de la Recherche (France)
+    #       years:
+    #         - year: 2018
+    #       url: http://www.agence-nationale-recherche.fr
+    journal:
+        - title: IEEE Transactions on Mobile Computing
+          # url:   http://www.computer.org/web/tvcg
+          years:
+            - year: 2020
+        - title: IEEE/ACM Transations on Networking
+          # url:   https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=83
+          years:
+            - year: 2019
+        - title: Future Generation Computer Systems
+          # url:   https://www.sciencedirect.com/journal/future-generation-computer-systems
+          years:
+            - year: 2018
+        - title: IEEE Transactions on Services Computing
+          # url:   http://tap.acm.org
+          years:
+            - year: 2018        
+        - title: IEEE Internet of Things Journal
+          # url:   http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8659
+          years:
+            - year: 2018
+    #     - title: The Visual Computer
+    #       url:   http://link.springer.com/journal/371
+    #       years:
+    #         - year: 2016
+    #         - year: 2017
+    #     - title: Computers and Graphics
+    #       url:   http://www.journals.elsevier.com/computers-and-graphics/
+    #       years:
+    #         - year: 2015
+    #         - year: 2017
+    #     - title: IEEE Signal Processing Letters
+    #       url:   http://www.signalprocessingsociety.org/publications/periodicals/letters/
+    #       years:
+    #         - year: 2015
+    #     - title: Journal of Signal Image and Video Processing
+    #       url:   http://www.springer.com/engineering/signals/journal/11760
+    #       years:
+    #         - year: 2013
+
+    # conference:
+    #     - title: CVPR
+    #       years:
+    #         - year: 2018
+    #           url: http://cvpr2018.thecvf.com/
+    #     - title: ACCV
+    #       years:
+    #         - year: 2018
+    #           url: http://accv2018.net/
+    #     - title: SIGGRAPH
+    #       years:
+    #         - year: 2012
+    #           url:  http://s2012.siggraph.org/
+    #         - year: 2016
+    #           url:  http://s2016.siggraph.org/
+    #     - title: SIGGRAPH Asia
+    #       years:
+    #         - year: 2013
+    #           url:  http://sa2013.siggraph.org/en/
+    #         - year: 2016
+    #           url:  http://sa2016.siggraph.org/en/
+    #         - year: 2017
+    #           url:  http://sa2017.siggraph.org
+    #         - year: 2018
+    #           url:  http://sa2018.siggraph.org
+    #         - year: 2019
+    #           url:  http://sa2019.siggraph.org
+    #     - title: Eurographics
+    #       years:
+    #         - year: 2012
+    #           url:  http://www.eurographics2012.it/
+    #         - year: 2016
+    #           url:  http://eurographics2016.pt/
+    #     - title: Pacific Graphics
+    #       years:
+    #         - year: 2014
+    #           url:  http://graphics.ewha.ac.kr/PG14/
+    #         - year: 2015
+    #           url:  http://cg.cs.tsinghua.edu.cn/pg2015/
+    #         - year: 2016
+    #           url:  https://indico.oist.jp/indico/event/0/
+    #     - title: High Performance Graphics
+    #       years:
+    #         - year: 2016
+    #           url:  http://www.highperformancegraphics.org/2016/
+    #     - title: Virtual Reality Science and Technology (VRST)
+    #       years:
+    #         - year: 2016
+    #           url:  http://www.vrst2016.lrz.de/
+
+references:
+    - name:  Prof. Prateek Saxena
+      title: Associate Professor, School of Computing, National University of Singapore
+      www:   https://www.comp.nus.edu.sg/~prateeks/
+      mail:  prateeks at comp.nus.edu.sg
+    - name:  Prof. Zhiping Cai
+      title: Professor, College of Computer, National University of Defense
+      www:   http://individual.utoronto.ca/zcai/
+      mail:  zpcai at nudt.edu.cn
+    - name:  Prof. Xuhua DING 
+      title: Associate Professor, School of Information Systems, Singapore Management University
+      www:   https://www.smu.edu.sg/faculty/profile/9612/DING-XuHua
+      mail:  xhding at smu.edu.sg
+    # - name:  Prof. Jianwei HU
+    #   title: Associate Professor, School of Electronic Engineering, Xidian University
+    #   www:   http://see.xidian.edu.cn/graduate/advisor/show.asp?id=3052
+    #   mail:  jhost at xidian.edu.cn
+    - name:  Prof. Shweta Shinde
+      title: Assistant Professor, Computer Science department, ETH Zurich
+      www:   https://n.ethz.ch/~sshivaji/
+      mail:  sshivaji at ethz.ch
+    # - name:  Prof. Dr. Markus Gross
+    #   title: Professor, ETH Zurich and Vice President, Disney Research, Zurich, Switzerland
+    #   www:   https://www.disneyresearch.com/people/markus-gross/
+    #   mail:  markus.gross@disneyresearch.com
+    # - name:  Dr. Paul Beardsley
+    #   title: Principal Research Scientist, Disney Research, Zurich, Switzerland
+    #   www:   https://www.disneyresearch.com/people/paul-beardsley/
+    #   mail:  pab@disneyresearch.com

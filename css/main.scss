@@ -1,0 +1,62 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+$font-weight-normal: 200;
+$font-weight-bold:   600;
+
+$base-font-family: "San Francisco", "Helvetica Neue", Helvetica, Roboto, "Segoe UI", "Segoe WP", Arial, Ubuntu, sans-serif;
+$base-font-size:   13pt;
+$base-line-height: 2;
+
+$heading-font-family: $base-font-family;
+$heading-font-size:   16pt;
+$heading-line-height: 1.5;
+
+$small-font-size:  0.875em;
+$vsmall-font-size: 0.76em;
+$spacing-unit:     1.5em;
+
+$grey-vlight:#fefefe;
+$grey-light: #ccc;
+$grey:       #888;
+$grey-dark:  #444;
+$grey-vdark: #333;
+$blue:       #0091ed;
+$black1:     #222;
+$orange:     #FF9900;
+
+$background:        $grey-vlight;
+$dark-background:   darken($background, 5%);
+$text-color:        $grey-vdark;
+$text-light-color:  $grey-dark;
+$url-color:         $black1;
+$url-hover-color:   $orange;
+$header-text-color: $grey-vdark;
+$header-hover-color:$orange;
+$header-hover-url:  $url-color;
+$line-color:        $grey-light;
+
+// Width of the content area
+$content-width:    50em;
+$content-min-width:15em;
+$mobile:           32em;
+$desktop:          50em;
+
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+    "header",
+    "mobile-header",
+    "base",
+    "footer",
+    "page",
+    "syntax-highlighting",
+    "fancy-image"
+;
