@@ -272,16 +272,15 @@ Jump to **[Publications](#peer-reviewed-publications)**, <!-- [Thesis](#doctoral
 ## Publications <!-- (peer reviewed unless stated otherwise) -->
 
 {% assign thumbnail="right" %}
-
+{% if pub.image %}
+{% include image.html url=pub.image height="20px" %}
+{% endif %}
 {% for pub in site.data.cv.publications %}
-<!-- {% if pub.image %}
-{% include image.html url=pub.image caption="" height="80px" align=thumbnail %}
-{% endif %} -->
 {{pub.author}}<br />
 **{{pub.title}}**<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}*  [[Paper]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] <!-- {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %} --> {% if pub.web %}[[Project page]({{pub.web}})]{% endif %} {% if pub.code %}[[Code]({{pub.code}})]{% endif %} {% if pub.demo %}[[Demo]({{pub.demo}})]{% endif %} {% if pub.video %}[[Video]({{pub.video}})]{% endif %} {% if pub.slides %}[[Slides]({{pub.slides}})]{% endif %}<br />{% if pub.mark %} ({{pub.mark}}){% endif %}
+{% endif %} *{{pub.year}}* [![pdf](/images/pdf.png){:height="17px" width="15px"} Paper ]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}) <!-- {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %} --> {% if pub.web %} [![project](/images/project.png){:height="21px" width="21px"} Project page ]({{pub.web}}){% endif %} {% if pub.code %} [![code](/images/code.png){:height="21px" width="21px"} Code]({{pub.code}}){% endif %} {% if pub.demo %}[![demo](/images/demo.png){:height="21px" width="21px"} Demo]({{pub.demo}}){% endif %} {% if pub.video %}[![video](/images/video.png){:height="22px" width="18px"} Video]({{pub.video}}){% endif %} {% if pub.slides %}[![slides](/images/slides.png){:height="18px" width="16px"} Slides]({{pub.slides}}){% endif %}<br />{% if pub.mark %} ({{pub.mark}}){% endif %}
 
 
 {% endfor %}

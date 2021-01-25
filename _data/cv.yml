@@ -138,9 +138,10 @@ publications:
     - title:   "Dynamic Binary Translation for SGX Enclaves"
       author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan and Prateek Saxena
       journal: arXiv preprint
-      mark:    \*These authors contributed equally to this work
-      note:    version 1
-      year:    2020
+      mark:    \*The authors contributed equally to this work
+      note:    
+      image:   https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg
+      year:    (version 1, 2020)
       doi:   
       code:    https://github.com/ratel-enclave
       web:     https://ratel-enclave.github.io/
@@ -157,16 +158,16 @@ publications:
       #       url:  https://uploadvr.com/oc6-quest-passthrough/?fbclid=IwAR1uZPB9ODf76lw7p3rNlM_A4lK0EcS1yQfCpdly5uRiCMj3XiqrrM1ohco
     - title:   "H-Securebox: A Hardened Memory Data Protection Framework on ARM Devices"
       author:  Zhangkai Zhang, Zhoujun Li, Chunhe Xia, **Jinhua Cui** and Jinxin Ma
-      journal: IEEE International Conference on Data Science in Cyberspace (DSC)
+      journal: IEEE International Conference on Data Science in Cyberspace
       url:     https://ieeexplore.ieee.org/document/8411874
       doi:     10.1109/DSC.2018.00053
       note:    
-      year:    2018
+      year:    (DSC 2018)
     - title:   "Securing Display Path for Security-Sensitive Applications on Mobile Devices"
       author:  "**Jinhua Cui**, Yuanyuan Zhang, Zhiping Cai, Anfeng Liu and Yangyang Li"
       journal: Computers, Materials & Continua
       note:    
-      year:    2018
+      year:    (CMC 2018)
       url:     https://www.techscience.com/cmc/v55n1/22881
       doi:     doi:10.3970/cmc.2018.055.017 
       # media:
@@ -174,9 +175,10 @@ publications:
       #     url:  https://techcrunch.com/2017/10/23/the-dream-of-customizable-virtual-3d-foliage-is-alive-at-disney/
     - title:   "Presence Attestation: The Missing Link in Dynamic Trust Bootstrapping"
       author:  Zhangkai Zhang, Xuhua Ding, Gene Tsudik, **Jinhua Cui** and Zhoujun Li
-      journal: ACM SIGSAC Conference on Computer and Communications Security (CCS)
+      journal: ACM Conference on Computer and Communications Security
       note:    
-      year:    2017
+      video:   https://www.youtube.com/watch?v=voOMQZOus78
+      year:    (CCS 2017)
       url:     http://www.mysmu.edu/faculty/xhding/publications/preatt.pdf
       doi:     https://doi.org/10.1145/3133956.3134094
       demo:    https://youtu.be/jnjpY3XyfP0
