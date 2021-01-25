@@ -281,7 +281,8 @@ Jump to **[Publications](#peer-reviewed-publications)**, <!-- [Thesis](#doctoral
 **{{pub.title}}**<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}*  [[Paper]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] <!-- {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %} --> {% if pub.web %}[[Project page]({{pub.web}})]{% endif %} {% if pub.code %}[[Code]({{pub.code}})]{% endif %} {% if pub.demo %}[[Demo]({{pub.demo}})]{% endif %} {% if pub.video %}[[Video]({{pub.video}})]{% endif %} {% if pub.slides %}[[Slides]({{pub.slides}})]{% endif %} 
+{% endif %} *{{pub.year}}*  [[Paper]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] <!-- {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %} --> {% if pub.web %}[[Project page]({{pub.web}})]{% endif %} {% if pub.code %}[[Code]({{pub.code}})]{% endif %} {% if pub.demo %}[[Demo]({{pub.demo}})]{% endif %} {% if pub.video %}[[Video]({{pub.video}})]{% endif %} {% if pub.slides %}[[Slides]({{pub.slides}})]{% endif %}<br />{% if pub.mark %} ({{pub.mark}}){% endif %}
+
 
 {% endfor %}
 
