@@ -4,8 +4,8 @@ layout: page
 permalink: /exp/
 ---
 
-## Education
 
+## Education
 {% for edu in site.data.cv.education %}
 - {{edu.date}}<br />{{edu.affiliation}}<br />{{edu.title}}, Advisor: {{edu.mentor}}
 
@@ -17,15 +17,6 @@ permalink: /exp/
 
 {% for exp in site.data.cv.positions %}
 - {{exp.date}}<br />{{exp.affiliation}}<br />{{exp.title}}, Advisor: {{exp.mentor}}
-
-{% endfor %}
-
-------
-
-## Reference
-
-{% for ref in site.data.cv.references %}
-- **[{{ref.name}}]({{ref.www}})**<br />{{ref.title}}<br /> {{ref.mail}}
 
 {% endfor %}
 
