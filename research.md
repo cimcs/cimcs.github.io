@@ -265,7 +265,7 @@ conference_reviews:
           url:  "http://www.vrst2016.lrz.de/"
 ---
 
-Jump to **[Publications](#peer-reviewed-publications)**, <!-- [Thesis](#doctoral-thesis), [Talks](#invited-talks), [Media](#media-coverage),  --> **[Activities and services](#activities-and-services)** as well as [Github](https://github.com/cimcs) and [Twitter](https://twitter.com/jhcui24).
+Jump to **[Publications](#peer-reviewed-publications)**, <!-- [Thesis](#doctoral-thesis), [Talks](#invited-talks), [Media](#media-coverage),  --> **[Activities and services](#activities-and-services)** as well as **[Github](https://github.com/cimcs)** and **[Twitter](https://twitter.com/jhcui24)**
 
 ---
 
