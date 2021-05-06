@@ -139,6 +139,7 @@ publications:
       # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan and Prateek Saxena
       author:  "**Jinhua Cui**, Shweta Shinde, Satyaki Sen, Prateek Saxena and Pinghai Yuan"
       journal: arXiv preprint
+      url:     https://arxiv.org/abs/2103.15289
       # mark:    \*The authors contributed equally to this work
       note:    
       image:   https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg
@@ -148,8 +149,7 @@ publications:
       web:     https://ratel-enclave.github.io/
       demo:    
       video:   
-      slides:   
-      url:     https://arxiv.org/pdf/2010.01155.pdf
+      slides:  
       # media:
       #     - name: Code
       #       url:  https://github.com/ratel-enclave
