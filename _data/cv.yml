@@ -137,7 +137,7 @@ awards:
 publications:
     - title:   "Dynamic Binary Translation for SGX Enclaves"
       # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan and Prateek Saxena
-      author:  **Jinhua Cui**, Shweta Shinde, Satyaki Sen, Prateek Saxena and Pinghai Yuan
+      author:  "**Jinhua Cui**, Shweta Shinde, Satyaki Sen, Prateek Saxena and Pinghai Yuan"
       journal: arXiv preprint
       # mark:    \*The authors contributed equally to this work
       note:    
