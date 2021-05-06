@@ -4,7 +4,7 @@ layout: page
 permalink: /exp/
 ---
 
-
+------
 ## Education
 {% for edu in site.data.cv.education %}
 - {{edu.date}}<br />{{edu.affiliation}}<br />{{edu.title}}, Advisor: {{edu.mentor}}
