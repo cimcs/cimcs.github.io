@@ -37,6 +37,12 @@ positions:
       location:     Singapore
       mentor:       Prof. Prateek Saxena
       notes:
+    - date:         July 2019 - December 2020
+      title:        Research Internship
+      affiliation:  School of Computing, National University of Singapore
+      location:     Singapore
+      mentor:       Prof. Prateek Saxena
+      notes:
     - date:         July 2017 – August 2018
       title:        Senior Research Engineer
       affiliation:  School of Information Systems, Singapore Management University
@@ -56,13 +62,13 @@ positions:
 #       mentor:       Prof. Fr{\'e}do Durand
 #       notes:
 
-visiting_positions:
-    - date:         July 2019 - December 2020
-      title:        Research Internship
-      affiliation:  School of Computing, National University of Singapore
-      location:     Singapore
-      mentor:       Prof. Prateek Saxena
-      notes:        
+# visiting_positions:
+#     - date:         July 2019 - December 2020
+#       title:        Research Internship
+#       affiliation:  School of Computing, National University of Singapore
+#       location:     Singapore
+#       mentor:       Prof. Prateek Saxena
+#       notes:        
     # - date:         Aug 2012
     #   title:        Visiting student
     #   affiliation:  University of California Berkeley
