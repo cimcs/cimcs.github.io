@@ -6,7 +6,9 @@ permalink: /
 
 {% include image.html url="images/profile_1.jpg" width="200px" align="right" %}
 
-**Hi!** I am currently a PhD student at the **[National University of Defense Technology]** and also a Research Assistant at the **[School of Computing]** in **[National University of Singapore]**. I have been carrying out some interesting research projects under the supervision of Prof. **[Zhiping Cai]**, Prof. **[Prateek Saxena]** and Prof. **[Shweta Shinde]**. Previously, I was a Senior Research Engineer at the **[Secure Mobile Centre]** in **[Singapore Management University]**. I obtained my Master degree at the **[Xidian University]**.
+Hi! I am currently a PhD student at the **[National University of Defense Technology]** and also a Research Assistant at the **[School of Computing]** in **[National University of Singapore]**. I have been carrying out some interesting research projects under the supervision of Prof. **[Zhiping Cai]**, Prof. **[Prateek Saxena]** and Prof. **[Shweta Shinde]**. Previously, I was a Senior Research Engineer at the **[Secure Mobile Centre]** in **[Singapore Management University]**. 
+
+<!--I obtained my Master degree at the **[Xidian University]**.-->
 
 My current research interests include system security, trusted computing and virtualization security technology. I researches extensively to design and build prototype systems with SGX Enclaves and hardware-assisted virtualization technology for running/monitoring legacy applications on x86, performing presence attestation on ARM platforms. I am now working on the security of vanilla SGX design model such as exception-handling model.
 
