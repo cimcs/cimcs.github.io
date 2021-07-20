@@ -12,7 +12,7 @@ Hi! I am currently a PhD student at the **[National University of Defense Techno
 
 My current research interests include system security, trusted computing and virtualization security technology. I researches extensively to design and build prototype systems with SGX Enclaves and hardware-assisted virtualization technology for running/monitoring legacy applications on x86, performing presence attestation on ARM platforms. I am now working on the security of vanilla SGX design model such as exception-handling model.
 
-Email: jhcui dot gid at gmail.com <!-- <br />
+Email: jhcui.gid at gmail.com <!-- <br />
 Email: [gchauras@csail.mit.edu] (others) -->
 
 <!-- You can find some professional details about me on [Google Scholar]. -->
