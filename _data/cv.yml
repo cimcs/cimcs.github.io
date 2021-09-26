@@ -142,7 +142,7 @@ awards:
 
 publications:
     - title:   "SmashEx: Smashing SGX Enclaves Using Exceptions"
-      author:  **Jinhua Cui**\*, Jason Zhijingcheng Yu\*, Shweta Shinde, Prateek Saxena, and Zhiping Cai
+      author:  "**Jinhua Cui**\*", "Jason Zhijingcheng Yu\*", Shweta Shinde, Prateek Saxena, and Zhiping Cai
       journal: (To appear) ACM Conference on Computer and Communications Security
       note:    
       # video:   https://www.youtube.com/watch?v=voOMQZOus78
@@ -153,8 +153,8 @@ publications:
       video:   
       slides:
     - title:   "Dynamic Binary Translation for SGX Enclaves"
-      # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan and Prateek Saxena
-      author:  "**Jinhua Cui**, Shweta Shinde, Satyaki Sen, Prateek Saxena and Pinghai Yuan"
+      # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan, and Prateek Saxena
+      author:  "**Jinhua Cui**, Shweta Shinde, Satyaki Sen, Prateek Saxena, and Pinghai Yuan"
       journal: arXiv preprint
       url:     https://arxiv.org/abs/2103.15289
       # mark:    \*The authors contributed equally to this work
@@ -175,14 +175,14 @@ publications:
       #     - name: UploadVR
       #       url:  https://uploadvr.com/oc6-quest-passthrough/?fbclid=IwAR1uZPB9ODf76lw7p3rNlM_A4lK0EcS1yQfCpdly5uRiCMj3XiqrrM1ohco
     - title:   "H-Securebox: A Hardened Memory Data Protection Framework on ARM Devices"
-      author:  Zhangkai Zhang, Zhoujun Li, Chunhe Xia, **Jinhua Cui** and Jinxin Ma
+      author:  Zhangkai Zhang, Zhoujun Li, Chunhe Xia, **Jinhua Cui**, and Jinxin Ma
       journal: IEEE International Conference on Data Science in Cyberspace
       url:     https://ieeexplore.ieee.org/document/8411874
       doi:     10.1109/DSC.2018.00053
       note:    
       year:    (DSC 2018)
     - title:   "Securing Display Path for Security-Sensitive Applications on Mobile Devices"
-      author:  "**Jinhua Cui**, Yuanyuan Zhang, Zhiping Cai, Anfeng Liu and Yangyang Li"
+      author:  "**Jinhua Cui**, Yuanyuan Zhang, Zhiping Cai, Anfeng Liu, and Yangyang Li"
       journal: Computers, Materials & Continua
       note:    
       year:    (CMC 2018)
@@ -192,7 +192,7 @@ publications:
       #   - name: TechCrunch
       #     url:  https://techcrunch.com/2017/10/23/the-dream-of-customizable-virtual-3d-foliage-is-alive-at-disney/
     - title:   "Presence Attestation: The Missing Link in Dynamic Trust Bootstrapping"
-      author:  Zhangkai Zhang, Xuhua Ding, Gene Tsudik, **Jinhua Cui** and Zhoujun Li
+      author:  Zhangkai Zhang, Xuhua Ding, Gene Tsudik, **Jinhua Cui**, and Zhoujun Li
       journal: ACM Conference on Computer and Communications Security
       note:    
       video:   https://www.youtube.com/watch?v=voOMQZOus78
@@ -201,7 +201,7 @@ publications:
       doi:     https://doi.org/10.1145/3133956.3134094
       demo:    https://youtu.be/jnjpY3XyfP0
     # - title:   A Distributed Intrusion Detection Model via Nondestructive Partitioning and Balanced Allocation for Big Data
-    #   author:  Xiaonian Wu, Chuyun Zhang, Runlian Zhang, Yujue Wang and **Jinhua Cui**
+    #   author:  Xiaonian Wu, Chuyun Zhang, Runlian Zhang, Yujue Wang, and **Jinhua Cui**
     #   journal: Computers, Materials & Continua
     #   note:    
     #   year:    2018
