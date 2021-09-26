@@ -142,7 +142,7 @@ awards:
 
 publications:
     - title:   "SmashEx: Smashing SGX Enclaves Using Exceptions"
-      author:  "**Jinhua Cui**, Jason Zhijingcheng Yu*, Shweta Shinde, Prateek Saxena, and Zhiping Cai"
+      author:  "**Jinhua Cui**, Jason Zhijingcheng Yu\\*, Shweta Shinde, Prateek Saxena, and Zhiping Cai"
       journal: (To appear) ACM Conference on Computer and Communications Security
       note:    
       # video:   https://www.youtube.com/watch?v=voOMQZOus78
