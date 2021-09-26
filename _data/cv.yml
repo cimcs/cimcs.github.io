@@ -31,7 +31,7 @@ education:
       thesis:       
 
 positions:
-    - date:         Jan 2021 – present
+    - date:         Jan 2021 – September 2021
       title:        Research Assistant
       affiliation:  School of Computing, National University of Singapore
       location:     Singapore
@@ -141,6 +141,17 @@ awards:
       detail: National Endeavor Fellowship in Gansu Agricultural University.
 
 publications:
+    - title:   "SmashEx: Smashing SGX Enclaves Using Exceptions"
+      author:  *Jinhua Cui\***, Jason Zhijingcheng Yu\*, Shweta Shinde, Prateek Saxena, and Zhiping Cai
+      journal: ACM Conference on Computer and Communications Security
+      note:    
+      # video:   https://www.youtube.com/watch?v=voOMQZOus78
+      year:    (CCS 2021)
+      # url:     http://www.mysmu.edu/faculty/xhding/publications/preatt.pdf
+      doi:     https://doi.org/10.1145/3460120.3484821
+      code:    https://github.com/cimcs/poc-exploits-of-smashex  
+      video:   
+      slides:
     - title:   "Dynamic Binary Translation for SGX Enclaves"
       # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan and Prateek Saxena
       author:  "**Jinhua Cui**, Shweta Shinde, Satyaki Sen, Prateek Saxena and Pinghai Yuan"
