@@ -4,9 +4,6 @@ address: Changsha in China & Singapore
 email: jhcui dot gid at gamil.com
 web: https://cimcs.github.io
 
-bold:
-- Jinhua Cui
-
 research_interests:
     - System security.
     - Trusted computing.
@@ -145,7 +142,7 @@ awards:
 
 publications:
     - title:   "SmashEx: Smashing SGX Enclaves Using Exceptions"
-      author:  Jinhua Cui\*, Jason Zhijingcheng Yu\*, Shweta Shinde, Prateek Saxena, and Zhiping Cai
+      author:  '**Jinhua Cui\***, Jason Zhijingcheng Yu\*, Shweta Shinde, Prateek Saxena, and Zhiping Cai'
       journal: (To appear) ACM Conference on Computer and Communications Security
       note:    
       # video:   https://www.youtube.com/watch?v=voOMQZOus78
