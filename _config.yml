@@ -2,7 +2,7 @@ title: Jinhua CUI
 description: Jinhua CUI's Homepage
 sourcecode: "https://github.com/gchauras/gchauras.github.io"
 
-# permalink: blog/:year/:month/:day/:title
+permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
 url: ""                         # the base hostname & protocol for your site
