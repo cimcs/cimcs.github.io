@@ -151,7 +151,8 @@ publications:
       url:     https://arxiv.org/abs/2110.06657 
       # doi:     https://doi.org/10.1145/3460120.3484821
       code:    https://github.com/cimcs/poc-exploits-of-smashex  
-      video:   
+      video: 
+      web:     https://jasonyu1996.github.io/SmashEx/
       slides:
     - title:   "Dynamic Binary Translation for SGX Enclaves"
       # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan, and Prateek Saxena
