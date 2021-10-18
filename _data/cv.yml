@@ -148,7 +148,8 @@ publications:
       # video:   https://www.youtube.com/watch?v=voOMQZOus78
       year:    (CCS 2021)
       # url:     http://www.mysmu.edu/faculty/xhding/publications/preatt.pdf
-      doi:     https://doi.org/10.1145/3460120.3484821
+      doi:     https://arxiv.org/abs/2110.06657 
+      # doi:     https://doi.org/10.1145/3460120.3484821
       code:    https://github.com/cimcs/poc-exploits-of-smashex  
       video:   
       slides:
