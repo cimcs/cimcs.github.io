@@ -323,6 +323,9 @@ publications:
 #       url:    /research/talks/csail_2013/
 #       internal: 1
 
+impacts:
+    - Security advisory caused by our work on re-entrancy vulnerabilities in SGX enclaves can be found on [Intel](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00548.html), [Microsoft](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-33767), [Chips & Salsa from Intel](https://youtu.be/YnDeOhTXjqg), etc.
+
 reviews:
     # grants:
     #     - title: National Science Foundation (USA)
