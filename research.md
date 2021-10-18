@@ -269,7 +269,7 @@ Jump to **[Publications](#peer-reviewed-publications)**, <!-- [Thesis](#doctoral
 
 ---
 
-## Publications <!-- (peer reviewed unless stated otherwise) -->
+## Selected Publications <!-- (peer reviewed unless stated otherwise) -->
 
 {% assign thumbnail="right" %}
 {% if pub.image %}
