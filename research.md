@@ -334,4 +334,4 @@ Jump to **[Publications](#peer-reviewed-publications)**, <!-- [Thesis](#doctoral
 
 ## Impacts
 - Security advisories and CVEs caused by our SmashEx work on re-entrancy vulnerabilities in SGX enclaves can be found on [**Intel**](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00548.html), [**Microsoft**](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-33767).
-- Our SmashEx work also has received podcast reports by Chips & Salsa from Intel (see [**here**](https://blogs.intel.com/technology/2021/10/intel-security-advisories-for-october-2021/) or [**here**](https://youtu.be/YnDeOhTXjqg)).
+- Our SmashEx work also has received podcast reports by Chips & Salsa from Intel (see [**here**](https://blogs.intel.com/technology/2021/10/intel-security-advisories-for-october-2021/)) and more than 100 media coverage world-wide.
