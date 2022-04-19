@@ -186,6 +186,22 @@ publications:
       demo:    
       video:   
       slides:
+    - title:   "A Distributed Storage System for Robust, Privacy-Preserving Surveillance Cameras"
+      # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan, and Prateek Saxena
+      author:  Jiaping Yu, Haiwen Chen, Kui Wu, Zhiping Cai, and Jinhua Cui
+      # journal: arXiv preprint
+      journal: IEEE International Conference on Distributed Computing Systems
+      url:     https://ieeexplore.ieee.org/document/9355686
+      # mark:    \*The authors contributed equally to this work
+      note:    
+      image:   https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg
+      year:    (Poster, ICDCS 2020)
+      doi:   
+      # code:    https://github.com/ratel-enclave
+      # web:     https://ratel-enclave.github.io/
+      demo:    
+      video:   
+      slides:
       # media:
       #     - name: Code
       #       url:  https://github.com/ratel-enclave
@@ -210,6 +226,22 @@ publications:
       # media:
       #   - name: TechCrunch
       #     url:  https://techcrunch.com/2017/10/23/the-dream-of-customizable-virtual-3d-foliage-is-alive-at-disney/
+    - title:   "借助Hypervisor强化TrustZone对非安全世界的监控能力"
+      # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan, and Prateek Saxena
+      author:  章张锴, 李舟军, 夏春和, 马金鑫, 崔津华
+      # journal: arXiv preprint
+      journal: 软件学报 (Journal of Software)
+      url:     http://www.jos.org.cn/html/2018/8/5492.htm
+      # mark:    \*The authors contributed equally to this work
+      note:    
+      image:   https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg
+      year:    (JOS 2018)
+      doi:   
+      # code:    https://github.com/ratel-enclave
+      # web:     https://ratel-enclave.github.io/
+      demo:    
+      video:   
+      slides:
     - title:   "Presence Attestation: The Missing Link in Dynamic Trust Bootstrapping"
       author:  Zhangkai Zhang, Xuhua Ding, Gene Tsudik, **Jinhua Cui**, and Zhoujun Li
       journal: ACM Conference on Computer and Communications Security
