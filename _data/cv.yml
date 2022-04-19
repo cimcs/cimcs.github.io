@@ -141,19 +141,6 @@ awards:
       detail: National Endeavor Fellowship in Gansu Agricultural University.
 
 publications:
-    - title:   "SmashEx: Smashing SGX Enclaves Using Exceptions"
-      author:  '**Jinhua Cui\***, Jason Zhijingcheng Yu\*, Shweta Shinde, Prateek Saxena, and Zhiping Cai'
-      journal: ACM Conference on Computer and Communications Security
-      note:    
-      video:   https://www.youtube.com/watch?v=YnDeOhTXjqg
-      year:    (CCS 2021)
-      # url:     http://www.mysmu.edu/faculty/xhding/publications/preatt.pdf
-      url:     https://dl.acm.org/doi/10.1145/3460120.3484821 
-      doi:     https://doi.org/10.1145/3460120.3484821
-      code:    https://github.com/cimcs/poc-exploits-of-smashex  
-      video: 
-      web:     https://jasonyu1996.github.io/SmashEx/
-      slides:
     - title:   "Dynamic Binary Translation for SGX Enclaves"
       # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan, and Prateek Saxena
       author:  "**Jinhua Cui**, Shweta Shinde, Satyaki Sen, Prateek Saxena, and Pinghai Yuan"
@@ -170,9 +157,22 @@ publications:
       demo:    
       video:   
       slides: 
+    - title:   "SmashEx: Smashing SGX Enclaves Using Exceptions"
+      author:  '**Jinhua Cui\***, Jason Zhijingcheng Yu\*, Shweta Shinde, Prateek Saxena, and Zhiping Cai'
+      journal: ACM Conference on Computer and Communications Security
+      note:    
+      video:   https://www.youtube.com/watch?v=YnDeOhTXjqg
+      year:    (CCS 2021)
+      # url:     http://www.mysmu.edu/faculty/xhding/publications/preatt.pdf
+      url:     https://dl.acm.org/doi/10.1145/3460120.3484821 
+      doi:     https://doi.org/10.1145/3460120.3484821
+      code:    https://github.com/cimcs/poc-exploits-of-smashex  
+      video: 
+      web:     https://jasonyu1996.github.io/SmashEx/
+      slides:
     - title:   "TSAEns: Ensemble Learning for KPI Anomaly Detection"
       # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan, and Prateek Saxena
-      author:  "Chengyu Wang, Tao Yang, **Jinhua Cui\***, Yu Li, Tongqing Zhou, and Zhiping Cai"
+      author:  Chengyu Wang, Tao Yang, **Jinhua Cui\***, Yu Li, Tongqing Zhou, and Zhiping Cai
       # journal: arXiv preprint
       journal: International Conference on Algorithms and Architectures for Parallel Processing
       url:     https://link.springer.com/chapter/10.1007/978-3-030-95384-3_11
