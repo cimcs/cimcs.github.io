@@ -188,7 +188,7 @@ publications:
       slides:
     - title:   "A Distributed Storage System for Robust, Privacy-Preserving Surveillance Cameras"
       # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan, and Prateek Saxena
-      author:  Jiaping Yu, Haiwen Chen, Kui Wu, Zhiping Cai, and Jinhua Cui
+      author:  Jiaping Yu, Haiwen Chen, Kui Wu, Zhiping Cai, and **Jinhua Cui**
       # journal: arXiv preprint
       journal: IEEE International Conference on Distributed Computing Systems
       url:     https://ieeexplore.ieee.org/document/9355686
@@ -228,7 +228,7 @@ publications:
       #     url:  https://techcrunch.com/2017/10/23/the-dream-of-customizable-virtual-3d-foliage-is-alive-at-disney/
     - title:   "借助Hypervisor强化TrustZone对非安全世界的监控能力"
       # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan, and Prateek Saxena
-      author:  章张锴, 李舟军, 夏春和, 马金鑫, 崔津华
+      author:  章张锴, 李舟军, 夏春和, 马金鑫, **崔津华**
       # journal: arXiv preprint
       journal: 软件学报 (Journal of Software)
       url:     http://www.jos.org.cn/html/2018/8/5492.htm
