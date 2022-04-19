@@ -169,7 +169,23 @@ publications:
       web:     https://ratel-enclave.github.io/
       demo:    
       video:   
-      slides:  
+      slides: 
+    - title:   "TSAEns: Ensemble Learning for KPI Anomaly Detection"
+      # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan, and Prateek Saxena
+      author:  "Chengyu Wang, Tao Yang, **Jinhua Cui\***, Yu Li, Tongqing Zhou, and Zhiping Cai"
+      # journal: arXiv preprint
+      journal: International Conference on Algorithms and Architectures for Parallel Processing
+      url:     https://link.springer.com/chapter/10.1007/978-3-030-95384-3_11
+      # mark:    \*The authors contributed equally to this work
+      note:    
+      image:   https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg
+      year:    (ICA3PP 2021)
+      doi:   
+      # code:    https://github.com/ratel-enclave
+      # web:     https://ratel-enclave.github.io/
+      demo:    
+      video:   
+      slides:
       # media:
       #     - name: Code
       #       url:  https://github.com/ratel-enclave
