@@ -146,7 +146,8 @@ publications:
       author:  "**Jinhua Cui**, Shweta Shinde, Satyaki Sen, Prateek Saxena, and Pinghai Yuan"
       # journal: arXiv preprint
       journal: ACM Transactions on Privacy and Security
-      url:     https://arxiv.org/abs/2103.15289
+      # url:     https://arxiv.org/abs/2103.15289
+      url:     https://doi.org/10.1145/3532862
       # mark:    \*The authors contributed equally to this work
       note:    
       image:   https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg
@@ -180,6 +181,22 @@ publications:
       note:    
       image:   https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg
       year:    (ICA3PP 2021)
+      doi:   
+      # code:    https://github.com/ratel-enclave
+      # web:     https://ratel-enclave.github.io/
+      demo:    
+      video:   
+      slides:
+    - title:   "Leveraging blockchain for cross-institution data sharing and authentication in mobile healthcare"
+      # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan, and Prateek Saxena
+      author:  Le Lai, Tongqing Zhou, Zhiping Cai, Jiaping Yu, Hao Bai, and **Jinhua Cui\***
+      # journal: arXiv preprint
+      journal: International Conference on Mobility, Sensing and Networking
+      url:     https://doi.org/10.1109/MSN53354.2021.00056
+      # mark:    \*The authors contributed equally to this work
+      note:    
+      image:   https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg
+      year:    (MSN 2021)
       doi:   
       # code:    https://github.com/ratel-enclave
       # web:     https://ratel-enclave.github.io/
