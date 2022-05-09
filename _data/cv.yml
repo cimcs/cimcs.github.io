@@ -226,13 +226,6 @@ publications:
       #       url:  https://github.com/ratel-enclave/ratel-enclave.github.io
       #     - name: UploadVR
       #       url:  https://uploadvr.com/oc6-quest-passthrough/?fbclid=IwAR1uZPB9ODf76lw7p3rNlM_A4lK0EcS1yQfCpdly5uRiCMj3XiqrrM1ohco
-    - title:   "H-Securebox: A Hardened Memory Data Protection Framework on ARM Devices"
-      author:  Zhangkai Zhang, Zhoujun Li, Chunhe Xia, **Jinhua Cui**, and Jinxin Ma
-      journal: IEEE International Conference on Data Science in Cyberspace
-      url:     https://ieeexplore.ieee.org/document/8411874
-      doi:     10.1109/DSC.2018.00053
-      note:    
-      year:    (DSC 2018)
     - title:   "Securing Display Path for Security-Sensitive Applications on Mobile Devices"
       author:  "**Jinhua Cui**, Yuanyuan Zhang, Zhiping Cai, Anfeng Liu, and Yangyang Li"
       journal: Computers, Materials & Continua
@@ -243,6 +236,13 @@ publications:
       # media:
       #   - name: TechCrunch
       #     url:  https://techcrunch.com/2017/10/23/the-dream-of-customizable-virtual-3d-foliage-is-alive-at-disney/
+    - title:   "H-Securebox: A Hardened Memory Data Protection Framework on ARM Devices"
+      author:  Zhangkai Zhang, Zhoujun Li, Chunhe Xia, **Jinhua Cui**, and Jinxin Ma
+      journal: IEEE International Conference on Data Science in Cyberspace
+      url:     https://ieeexplore.ieee.org/document/8411874
+      doi:     10.1109/DSC.2018.00053
+      note:    
+      year:    (DSC 2018)
     - title:   "借助Hypervisor强化TrustZone对非安全世界的监控能力"
       # author:  Shweta Shinde\*, **Jinhua Cui\***, Satyaki Sen, Pinghai Yuan, and Prateek Saxena
       author:  章张锴, 李舟军, 夏春和, 马金鑫, **崔津华**
