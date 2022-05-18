@@ -4,6 +4,8 @@ layout: page
 permalink: /exp/
 ---
 
+Jump to **[Publications](#peer-reviewed-publications)**, <!-- [Thesis](#doctoral-thesis), [Talks](#invited-talks), [Media](#media-coverage),  --> **[Activities and services](#activities-and-services)** as well as **[Github](https://github.com/cimcs)** and **[Twitter](https://twitter.com/jhcui24)**
+
 ------
 ## Education
 {% for edu in site.data.cv.education %}
