@@ -412,18 +412,18 @@ reviews:
           # url:   https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=83
           years:
             - year: 2019
-        - title: Future Generation Computer Systems
+        - title: Future Generation Computer Systems, IEEE Transactions on Services Computing, IEEE Internet of Things Journal
           # url:   https://www.sciencedirect.com/journal/future-generation-computer-systems
           years:
             - year: 2018
-        - title: IEEE Transactions on Services Computing
-          # url:   http://tap.acm.org
-          years:
-            - year: 2018        
-        - title: IEEE Internet of Things Journal
-          # url:   http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8659
-          years:
-            - year: 2018
+   #     - title: IEEE Transactions on Services Computing
+   #       # url:   http://tap.acm.org
+   #       years:
+   #         - year: 2018        
+   #     - title: IEEE Internet of Things Journal
+   #       # url:   http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8659
+   #       years:
+   #         - year: 2018
     #     - title: The Visual Computer
     #       url:   http://link.springer.com/journal/371
     #       years:
