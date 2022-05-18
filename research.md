@@ -289,7 +289,7 @@ Jump to **[Publications](#peer-reviewed-publications)**, <!-- [Thesis](#doctoral
 
 ## Invited talks
 - Apache Teaclave, SmashEx: Smashing SGX Enclaves Using Exceptions, November 30, 2021, [**link**](https://teaclave.apache.org/blog/2021-11-30-teaclave-meetup-9/).
-- Hunan University, January 24, 2022.
+- Hunan University, SmashEx: Smashing SGX Enclaves Using Exceptions, January 24, 2022.
 
 <!-- 
 {% for talk in site.data.cv.talks %}
