@@ -287,8 +287,11 @@ Jump to **[Publications](#peer-reviewed-publications)**, <!-- [Thesis](#doctoral
 
 -----
 
-<!-- ## Invited talks
+## Invited talks
+- Apache Teaclave, SmashEx: Smashing SGX Enclaves Using Exceptions, November 30, 2021, [**link**](https://teaclave.apache.org/blog/2021-11-30-teaclave-meetup-9/).
+- Hunan University, January 24, 2022.
 
+<!-- 
 {% for talk in site.data.cv.talks %}
 - {{talk.date}}: {{talk.venue}} [[url]({{talk.url}})]{% if talk.slides %}
 [[slides]({{talk.slides}})]{% endif %}
@@ -318,6 +321,13 @@ Jump to **[Publications](#peer-reviewed-publications)**, <!-- [Thesis](#doctoral
 
 ------ -->
 
+
+## Impacts
+- Security advisories and CVEs (CVE-2021-0186, CVE-2021-33767) caused by SmashEx attack in SGX can be found on [**Intel**](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00548.html), [**Microsoft**](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-33767).
+- SmashEx has received podcast reports by Chips & Salsa from Intel (see [**here**](https://blogs.intel.com/technology/2021/10/intel-security-advisories-for-october-2021/)) and more than 100 media coverage world-wide such as [**The Hacker News**](https://thehackernews.com/2021/10/researchers-break-intel-sgx-with-new.html), [**Tom's Hardware**](https://www.tomshardware.com/news/smashex-attack-targets-intel-sgx), [**Hardware Info**](https://nl.hardware.info/nieuws/79094/smashex-aanvallen-omzeilen-sgx-beveiligingsenclaves-intel-en-microsoft-komen-met-fix), [**Computerworld**](https://www.computerworld.ch/security/sicherheitsluecken/sicherheitsluecke-intel-entdeckt-2706359.html), [**The Record by Recorded Future**](https://therecord.media/new-smashex-attack-breaks-intel-sgx-enclaves/), [**Europa Press**](https://www.europapress.es/portaltic/ciberseguridad/noticia-descubren-vulnerabilidad-arquitectura-segura-sgx-intel-20211019162251.html).
+- Acknowledged by Intel, Microsoft, Apache, and so on.
+
+
 ## Activities and services
 
 <!-- - Grant proposals{% for review in site.data.cv.reviews.grants %}
@@ -330,9 +340,3 @@ Jump to **[Publications](#peer-reviewed-publications)**, <!-- [Thesis](#doctoral
 
 - External reviewer{% for review in site.data.cv.reviews.journal %}
     - {{review.title}} {% for y in review.years %} [{% if review.url %}[{{y.year}}]({{review.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}
-
-
-## Impacts
-- Security advisories and CVEs (CVE-2021-0186, CVE-2021-33767) caused by SmashEx attack in SGX can be found on [**Intel**](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00548.html), [**Microsoft**](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-33767).
-- SmashEx has received podcast reports by Chips & Salsa from Intel (see [**here**](https://blogs.intel.com/technology/2021/10/intel-security-advisories-for-october-2021/)) and more than 100 media coverage world-wide such as [**The Hacker News**](https://thehackernews.com/2021/10/researchers-break-intel-sgx-with-new.html), [**Tom's Hardware**](https://www.tomshardware.com/news/smashex-attack-targets-intel-sgx), [**Hardware Info**](https://nl.hardware.info/nieuws/79094/smashex-aanvallen-omzeilen-sgx-beveiligingsenclaves-intel-en-microsoft-komen-met-fix), [**Computerworld**](https://www.computerworld.ch/security/sicherheitsluecken/sicherheitsluecke-intel-entdeckt-2706359.html), [**The Record by Recorded Future**](https://therecord.media/new-smashex-attack-breaks-intel-sgx-enclaves/), [**Europa Press**](https://www.europapress.es/portaltic/ciberseguridad/noticia-descubren-vulnerabilidad-arquitectura-segura-sgx-intel-20211019162251.html).
-- Acknowledged by Intel, Microsoft, Apache, and so on.
