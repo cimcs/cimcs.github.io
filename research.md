@@ -339,4 +339,4 @@ Jump to **[Publications](#peer-reviewed-publications)**, <!-- [Thesis](#doctoral
 - As one of the organizers in [**XDCTF**](http://ctf.xidian.edu.cn/), assisting faculties to host and make out competitive topics in 2014 and 2015, respectively. 
 
 - External reviewer{% for review in site.data.cv.reviews.journal %}
-    - [{% if review.url %}[{{y.year}}]({{review.url}}){% else %}{{y.year}}{% endif %}] {{review.title}} {% for y in review.years %}  {% endfor %}<br />{% endfor %}
+    - {% for y in review.years %} [{% if review.url %}[{{y.year}}]({{review.url}}){% else %}{{y.year}}{% endif %}] {{review.title}} {% endfor %}<br />{% endfor %}
