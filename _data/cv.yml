@@ -404,6 +404,10 @@ reviews:
     #         - year: 2018
     #       url: http://www.agence-nationale-recherche.fr
     journal:
+        - title: Design Automation Conference
+          # url:   http://www.computer.org/web/tvcg
+          years:
+            - year: 2022
         - title: IEEE Transactions on Mobile Computing
           # url:   http://www.computer.org/web/tvcg
           years:
