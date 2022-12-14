@@ -288,8 +288,9 @@ Jump to **[Publications](#peer-reviewed-publications)**, <!-- [Thesis](#doctoral
 -----
 
 ## Invited talks
-- Apache Teaclave, SmashEx: Smashing SGX Enclaves Using Exceptions, November 30, 2021, [**link**](https://teaclave.apache.org/blog/2021-11-30-teaclave-meetup-9/).
+- CCF Chip 2022，SmashEx: Smashing SGX Enclaves Using Exceptions，July 29，2022，[**link**](https://mp.weixin.qq.com/s/uwylwB8G6t3tx4GRZp87uA).
 - Hunan University, SmashEx: Smashing SGX Enclaves Using Exceptions, January 24, 2022.
+- Apache Teaclave, SmashEx: Smashing SGX Enclaves Using Exceptions, November 30, 2021, [**link**](https://teaclave.apache.org/blog/2021-11-30-teaclave-meetup-9/).
 
 <!-- 
 {% for talk in site.data.cv.talks %}
