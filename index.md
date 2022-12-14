@@ -6,17 +6,19 @@ permalink: /
 
 {% include image.html url="images/profile_1.jpg" width="200px" align="right" %}
 
-Hi! I am currently a PhD student at the **[National University of Defense Technology]** and also a Research Assistant at the **[School of Computing]** in **[National University of Singapore]**. I have been carrying out some interesting research projects with Prof. **[Zhiping Cai]**, Prof. **[Prateek Saxena]** and Prof. **[Shweta Shinde]**. Previously, I was a Senior Research Engineer at the **[Secure Mobile Centre]** in **[Singapore Management University]**. 
+
+I am an assistant professor at the **[Hunan University]**. I earned my Ph.D. degree in Computer Science from the National University of Defense Technology. Previously, I was a research assistant at the **[School of Computing]** in **[National University of Singapore]**, and a senior research engineer at the **[Secure Mobile Centre]** in **[Singapore Management University]**. I have been carrying out some interesting research projects with Prof. **[Prateek Saxena]**, Prof. **[Shweta Shinde]**, Prof. **[Xuhua Ding]** and Prof. **[Zhiping Cai]**. 
 
 <!--I obtained my Master degree at the **[Xidian University]**.-->
 
-My current research interests include system security, trusted computing and virtualization security technology. I researches extensively to design and build prototype systems with SGX Enclaves and hardware-assisted virtualization technology for running/monitoring legacy applications on x86, performing presence attestation on ARM platforms. I am now working on the security of asynchronous exception handling and the concurrency problems (e.g., data race, atomicity violation) in SGX enclaves.
+My current research interests include trusted computing, system security and hardware-assisted security. I researches extensively to design and build prototype systems with SGX Enclaves and hardware-assisted primitives for running/monitoring legacy applications on x86, performing presence attestation on ARM platforms. I am now working on the security of asynchronous exception handling and the concurrency problems (e.g., data race, atomicity violation) in SGX enclaves.
 
 Email: jhcui.gid at gmail.com <!-- <br />
 Email: [gchauras@csail.mit.edu] (others) -->
 
 <!-- You can find some professional details about me on [Google Scholar]. -->
 
+[Hunan University]: https://www.hnu.edu.cn/
 [National University of Defense Technology]: https://www.nudt.edu.cn/xysz/jsjxy/index.htm
 [National University of Singapore]: https://www.comp.nus.edu.sg/
 [School of Computing]: https://www.crystal.comp.nus.edu.sg/
@@ -26,4 +28,4 @@ Email: [gchauras@csail.mit.edu] (others) -->
 [Prateek Saxena]: https://www.comp.nus.edu.sg/~prateeks/
 [Shweta Shinde]: https://n.ethz.ch/~sshivaji/
 [Zhiping Cai]: http://individual.utoronto.ca/zcai/
-[Xuhua]: http://www.mysmu.edu/faculty/xhding/
+[Xuhua Ding]: http://www.mysmu.edu/faculty/xhding/
