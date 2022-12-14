@@ -7,7 +7,7 @@ permalink: /
 {% include image.html url="images/profile_1.jpg" width="200px" align="right" %}
 
 
-I am an assistant professor at the **[Hunan University]**. I earned my Ph.D. degree in Computer Science from the National University of Defense Technology. Previously, I was a research assistant at the **[School of Computing]** in **[National University of Singapore]**, and a senior research engineer at the **[Secure Mobile Centre]** in **[Singapore Management University]**. I have been carrying out some interesting research projects with Prof. **[Prateek Saxena]**, Prof. **[Shweta Shinde]**, Prof. **[Xuhua Ding]** and Prof. **[Zhiping Cai]**. 
+I am an assistant professor at the **[Hunan University]**. I earned my Ph.D. degree in Computer Science from the **[National University of Defense Technology]**. Previously, I was a research assistant at the **[School of Computing]** in **[National University of Singapore]**, and a senior research engineer at the **[Secure Mobile Centre]** in **[Singapore Management University]**. I have been carrying out some interesting research projects with Prof. **[Prateek Saxena]**, Prof. **[Shweta Shinde]**, Prof. **[Xuhua Ding]** and Prof. **[Zhiping Cai]**. 
 
 <!--I obtained my Master degree at the **[Xidian University]**.-->
 
