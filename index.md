@@ -11,7 +11,6 @@ I am an assistant professor at **[Hunan University]**. I earned my Ph.D. degree 
 
 <!--I obtained my Master degree at the **[Xidian University]**.-->
 
-<!-- My current research interests include trusted computing, system security, and hardware-assisted security. I love extensively exploring TEE security problems and designing and building prototype systems with hardware-assisted primitives on x86 / ARM / RISC-V platforms to run unmodified applications, do presence attestation, and so on. I am now working on the security of asynchronous exception handling and the concurrency problems (e.g., data race, atomicity violation) in SGX enclaves and RISC-V TEEs.-->
 My current research interests include trusted computing, and software-hardware co-design and optimization. I love extensively designing and building prototype systems with hardware-assisted primitives on x86 / ARM / RISC-V platforms to run unmodified applications, do presence attestation, and so on.
 
 Email: jhcui.gid at gmail.com <!-- <br />
