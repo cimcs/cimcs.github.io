@@ -11,7 +11,7 @@ I am an assistant professor at **[Hunan University]**. I earned my Ph.D. degree 
 
 <!--I obtained my Master degree at the **[Xidian University]**.-->
 
-My current research interests include trusted computing, and software-hardware co-design and optimization. I love extensively designing and building prototype systems with hardware-assisted primitives on x86 / ARM / RISC-V platforms to run unmodified applications, do presence attestation, and so on.
+My current research interests include trusted computing, and software-hardware co-design and optimization. I love extensively designing and building prototype systems with hardware-assisted primitives on x86 / ARM / RISC-V platforms to run unmodified applications, do presence attestation, and so on. 
 
 Email: jhcui.gid at gmail.com <!-- <br />
 Email: [gchauras@csail.mit.edu] (others) -->
