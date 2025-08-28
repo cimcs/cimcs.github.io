@@ -5,30 +5,30 @@ email: jhcui dot gid at gamil.com
 web: https://cimcs.github.io
 
 research_interests:
-    - System security.
     - Trusted computing.
-    - Mobile security.
-    - Hardware-assisted security.
+    - Microarchitectural security.
+    - Hardware-software co-design.
+    - System security.
 
-education:
-    - date:         September 2018 - June 2022
-      title:        Ph.D in Computer Science
-      affiliation:  National University of Defense Technology
-      location:     Changsha, China
-      mentor:       Prof. Zhiping Cai
-      thesis:       
-    - date:         September 2013 - February 2016
-      title:        M.S.E. in Circuits and Systems
-      affiliation:  Xidian University
-      location:     Xi'an, China
-      mentor:       Assoc. Prof. Jianwei Hu
-      thesis:
-    - date:         September 2009 - July 2013
-      title:        B.S.E. in Electronic & Information Engineering
-      affiliation:  Gansu Agricultural University
-      location:     Lanzhou, China
-      mentor:       Liqun Liu
-      thesis:       
+# education:
+#     - date:         September 2018 - June 2022
+#       title:        Ph.D in Computer Science
+#       affiliation:  National University of Defense Technology
+#       location:     Changsha, China
+#       mentor:       Prof. Zhiping Cai
+#       thesis:       
+#     - date:         September 2013 - February 2016
+#       title:        M.S.E. in Circuits and Systems
+#       affiliation:  Xidian University
+#       location:     Xi'an, China
+#       mentor:       Assoc. Prof. Jianwei Hu
+#       thesis:
+#     - date:         September 2009 - July 2013
+#       title:        B.S.E. in Electronic & Information Engineering
+#       affiliation:  Gansu Agricultural University
+#       location:     Lanzhou, China
+#       mentor:       Liqun Liu
+#       thesis:       
 
 positions:
     - date:         Jan 2021 – September 2021
