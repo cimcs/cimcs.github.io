@@ -11,7 +11,7 @@ I am an associate professor at **[Hunan University]**. I earned my Ph.D. degree 
 
 <!--I obtained my Master degree at the **[Xidian University]**.-->
 
-My current research interests include confidential computing, and software-hardware co-design and optimization. I love extensively designing and building prototype systems with hardware-assisted primitives on x86 / ARM / RISC-V platforms to run unmodified applications, do presence attestation, and so on.
+My current research interests include confidential computing, and software-hardware co-design and optimization. I love extensively designing and building prototype systems with hardware-assisted primitives on x86 / RISC-V / ARM platforms to run unmodified applications, protect ISA resources, and so on.
 
 
 Email: jhcui at hnu.edu.cn <!-- <br />
