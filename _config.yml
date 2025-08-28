@@ -38,7 +38,7 @@ analytics:
         token: ''
     piwik:
         baseURL: '' # Piwik installation address (without protocol)
-        idsite : ''  # the id of the site on Piwik
+        idsite: ''  # the id of the site on Piwik
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use.
